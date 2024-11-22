@@ -1,0 +1,9 @@
+.hobbies{
+    background-color: rgb(214, 209, 209);
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px;
+    box-shadow:5px 5px 5px  purple ;
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px;
+}

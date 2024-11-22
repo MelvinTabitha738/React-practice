@@ -1,0 +1,33 @@
+/* external css styling */
+.card{
+  border: 1px solid rgb(141, 137, 137);
+border-radius: 10px;
+box-shadow:5px 5px 5px purple;
+padding: 10px;
+margin: 5px;
+text-align: center;
+max-width:250px ;
+display: inline-block;
+
+
+}
+.card-image{
+  max-width: 60%;
+  height: auto;
+  border-radius:50% ;
+  margin-bottom: 20px;
+}
+.card-title{
+  font-family:Arial, Helvetica, sans-serif ;
+  margin: 0%;
+  color: purple;
+}
+.card-text{
+  font-family:Arial, Helvetica, sans-serif ;
+  color: rgb(43, 40, 40);
+
+}
+.list {
+  font-size: smaller;
+  text-decoration: none;
+}
